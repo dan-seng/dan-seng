@@ -1,6 +1,6 @@
-# Hi there, I'm Dan Seng 👋
+# Hi there, I'm Daniel Gidey 👋
 
-Welcome to my GitHub profile! I'm Dan Seng, a passionate software developer with a love for coding and continuous learning.
+Welcome to my GitHub profile! I'm Daniel Gidey, a passionate software developer with a love for coding and continuous learning.
 
 ## About Me
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Dan Seng, a passionate software developer with
 - 🌱 I'm always looking to learn new technologies and improve my skills.
 - 🔭 I’m currently exploring cloud computing and DevOps practices.
 - 🤝 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: [Email](mailto:dan.seng@example.com)
+- 📫 How to reach me: [Email](mailto:da16gi@gmail.com)
 
 ## Skills
 
