@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm Daniel Gidey, a passionate software developer 
 
 Here are a few projects I've worked on:
 
-- 🔗 [Project 1](https://github.com/dan-seng/project-1) - A web application for task management.
-- 🔗 [Project 2](https://github.com/dan-seng/project-2) - A mobile app for tracking fitness activities.
-- 🔗 [Project 3](https://github.com/dan-seng/project-3) - A cloud-based solution for data storage and processing.
+- 🔗 [Project 1](https://github.com/dan-seng/Movie_Explore) - A web application for exploring movies.
+- 🔗 [Project 2](https://github.com/dan-seng/todo-app) - A web app for todo.
+- 🔗 [Project 3](https://github.com/dan-seng/Portfolio) - A personal website.
 
 ## GitHub Stats
 
@@ -31,7 +31,6 @@ Here are a few projects I've worked on:
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/dan-seng)
-- [Twitter](https://twitter.com/dan_seng)
+- [LinkedIn]www.linkedin.com/in/daniel-gidey-40497337a)
 
 Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or have any questions.
