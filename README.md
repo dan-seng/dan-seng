@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 🔭 Exploring cloud computing, DevOps, and backend optimization.
 - 🤝 Looking to collaborate on open-source projects.
 - 🎵 Music enthusiast and creator of lyric videos.
-- ⚽ Football lover and coffee enthusiast ☕
+- ⚽ Football lover and Manchester United fan.
 - 📫 Reach me: [Email](mailto:da16gi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/daniel-gidey-40497337a)
 
 ---
