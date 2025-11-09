@@ -70,7 +70,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 <p>
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />&nbsp;
+  <img height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;
@@ -266,7 +266,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
   </a>&nbsp;
  <a href="https://t.me/living_guy" target="_blank">
-    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram"/>
   </a>
 </p>
 
