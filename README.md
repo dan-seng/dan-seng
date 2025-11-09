@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Daniel Gidey</h1>
+<h1 align="center">Hi there 👋, I'm <span style="font-size:35px">Daniel Gidey</span></h1>
 
 <h3 align="center">
 Full-Stack Developer | Mobile & Web Developer | Tech Explorer
@@ -71,7 +71,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 <p>
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />&nbsp;
-  <img height="55" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />&nbsp;
+  <img height="55" src="https://cdn.iconscout.com/icon/free/png-256/free-aws-logo-icon-svg-download-png-1583149.png?f=webp" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;
