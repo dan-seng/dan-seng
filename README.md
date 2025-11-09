@@ -20,13 +20,13 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 📩 **Reach me:**  
 <p>
   <a href="https://www.linkedin.com/in/daniel-gidey-40497337a" target="_blank">
-    <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:da16gi@gmail.com" target="_blank">
-    <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
   </a>&nbsp;
   <a href="https://t.me/living_guy" target="_blank">
-    <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram"/>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram"/>
   </a>
 </p>
 
@@ -125,13 +125,13 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 
 <p>
   <a href="https://www.linkedin.com/in/daniel-gidey-40497337a" target="_blank">
-    <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:da16gi@gmail.com" target="_blank">
-    <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
   </a>&nbsp;
   <a href="https://t.me/living_guy" target="_blank">
-    <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram"/>
+    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram"/>
   </a>
 </p>
 
