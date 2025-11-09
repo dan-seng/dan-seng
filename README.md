@@ -1,10 +1,11 @@
-<!-- Banner -->
+<!-- Sleek Tech Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/850x150/111111/00FFFF?text=Daniel+Gidey+%7C+Full-Stack+Developer+%7C+Mobile+%26+Web+Developer+%7C+Tech+Explorer" alt="Sleek Tech Banner" />
+  <img src="https://raw.githubusercontent.com/dan-seng/dan-seng/main/assets/sleek-tech-banner.png" alt="Sleek Tech Banner" width="850"/>
 </p>
 
+<!-- Typing Animation GIF -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hi+there+👋,+I'm+Daniel+Gidey;Full-Stack+Developer+|+Mobile+%26+Web+Developer+|+Tech+Explorer" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/dan-seng/dan-seng/main/assets/typing-intro.gif" alt="Typing Intro" width="850"/>
 </h1>
 
 ---
@@ -59,8 +60,6 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 ---
 
 ### 📌 Projects
-
-Some of my featured work:
 
 - 🔗 **[Movie Explore](https://github.com/dan-seng/Movie_Explore)** — Explore movies with a smooth UI  
 - 🔗 **[Todo App](https://github.com/dan-seng/todo-app)** — A simple and clean task manager  
