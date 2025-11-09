@@ -1,6 +1,6 @@
 <!-- Sleek Tech Banner -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/dan-seng/dan-seng/main/assets/sleek-tech-banner.png](https://as1.ftcdn.net/jpg/05/14/95/12/1000_F_514951224_2dxMLbIw5qNRdPGD003chpbVcxWtcp7K.jpg)" alt="Sleek Tech Banner" width="850"/>
+  <img src="https://as1.ftcdn.net/jpg/05/14/95/12/1000_F_514951224_2dxMLbIw5qNRdPGD003chpbVcxWtcp7K.jpg" alt="Sleek Tech Banner" width="850"/>
 </p>
 
 <!-- Typing Animation GIF -->
