@@ -38,7 +38,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 
 #### **Frameworks, Libraries & Tools**
 <p>
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp;
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
