@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm <span style="font-size:35px">Daniel Gidey</span></h1>
 
 <h3 align="center">
-Full-Stack Developer | Mobile & Web Developer | Tech Explorer
+Full-Stack Developer | Mobile & Web Developer | Tech Explorer 
 </h3>
 
 ---
@@ -83,8 +83,10 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 ### 📌 Projects
 
 - 🔗 **[Movie Explore](https://github.com/dan-seng/Movie_Explore)** — Explore movies with a smooth UI  
-- 🔗 **[Todo App](https://github.com/dan-seng/todo-app)** — A simple and clean task manager  
-- 🔗 **[Portfolio](https://github.com/dan-seng/Portfolio)** — My personal developer portfolio  
+- 🔗 **[E-Shemeta](https://github.com/dan-seng/fullstack-nextjs-ecommerce-app)** — Full stark E-Commerce website  
+- 🔗 **[Portfolio](https://github.com/dan-seng/Portfolio)** — My personal developer portfolio
+- 🔗 **[See More](https://github.com/dan-seng?tab=repositories)**
+-  
 
 ---
 
