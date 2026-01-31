@@ -14,8 +14,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 - 🚀 Currently working on **web & mobile development projects**
 - 📚 Learning **Cloud Security, Kubernetes & Advanced Next.js**
 - 🤝 Open to collaborating on **open-source & impactful projects**
-- 🎵 Music lover & creator of lyric videos
-- ⚽ Football fan (Manchester United 💯)
+
 
 📩 **Reach me:**  
 <p>
@@ -23,7 +22,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:da16gi@gmail.com" target="_blank">
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
+    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email"/>
   </a>&nbsp;
   <a href="https://t.me/living_guy" target="_blank">
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
@@ -42,7 +41,6 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
@@ -51,7 +49,6 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 <p>
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;
@@ -65,6 +62,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="55" src="https://www.svgrepo.com/show/452130/vue.svg" />&nbsp;
 </p>
 
 #### **Databases & Cloud**
@@ -131,7 +129,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:da16gi@gmail.com" target="_blank">
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email"/>
+    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email"/>
   </a>&nbsp;
  <a href="https://t.me/living_guy" target="_blank">
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
