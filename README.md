@@ -1,4 +1,3 @@
-
 <h1 align="center" style="font-size:35px">Hi there <img alt="Coding" width="75" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3AxcnhudDF5OXQ3cTBqOWc5cWZwZDNqOGN1aTMwZHo4MW5zZDdrMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.gif">, I'm <span style="font-size:35px">Daniel Gidey</span></h1>
 
 <h3 align="center">
@@ -37,32 +36,33 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 
 #### **Languages**
 <p>
-  <img height="65" src="https://miro.medium.com/1*-tOldEbfjijxn9VqZeULqg.gif" />&nbsp;
-  <img height="65" src="https://miro.medium.com/1*IqY31xyf-TsUJUrDJi-BPA.gif" />&nbsp;
-  <img height="70" src="https://assets-v2.lottiefiles.com/a/62e02bc6-116f-11ee-aeb0-077c335b3c67/TyPVzfWm46.gif" />&nbsp;
-  <img height="65" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydjFkbGkzbmV3bG14Z2d3cHQ5bjEzaTJiYmltY3FoeTFkMGcyN28yYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif" />&nbsp;
-  <img height="65" src="https://cdn3d.iconscout.com/3d/free/thumb/free-c-language-logo-3d-icon-png-download-5453029.png" />&nbsp;
-  <img height="75" src="https://cdn.dribbble.com/userupload/18586614/file/original-9625d0dcbb3637317ba8ce9839a29f02.gif" />&nbsp;
-  <img height="75" src="https://cdn3d.iconscout.com/3d/free/thumb/free-css3-3d-icon-png-download-3640300.png" />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </p>
 
 #### **Frameworks, Libraries & Tools**
 <p>
-  <img height="55" src="https://assets-v2.lottiefiles.com/a/b3202668-1151-11ee-939e-cf25d6aad422/LXZKuNhIQ5.gif" />&nbsp;
-  <img height="50" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1723777979909/23da8ed6-ba1b-46a2-9298-e3a7f01be50a.gif" />&nbsp;
-  <img height="55" src="https://raw.githubusercontent.com/yoavain/create-windowless-app/main/resources/docs/logo.gif" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
-  <img height="55" src="https://miro.medium.com/1*wXtyhpOL5NK_w39UvZpADQ.gif" />&nbsp;
-  <img height="55" src="https://media.tenor.com/F_aIpdp3hEwAAAAj/git-github.gif" />&nbsp;
-  <img height="55" src="https://www.lansil.it/informatica/gif/gif_animate/tux080.gif" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
-  <img height="65" src="https://voyager.postman.com/gif/postman-ai-strategy-block.gif" />&nbsp;
-  <img height="55" src="https://media.lordicon.com/icons/wired/flat/2572-logo-github.gif" />
-  <img height="55" src="https://miro.medium.com/1*-lM9Mg6hZf1qelpmVk4WAQ.gif" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />&nbsp;
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="55" src="https://www.svgrepo.com/show/452130/vue.svg" />&nbsp;
 </p>
 
 #### **Databases & Cloud**
@@ -140,4 +140,3 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 ---
 
 ⭐️ *Thanks for stopping by! Explore my repos or reach out for collaboration.*
-
