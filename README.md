@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size:35px">Hi there <img alt="Coding" width="75" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3AxcnhudDF5OXQ3cTBqOWc5cWZwZDNqOGN1aTMwZHo4MW5zZDdrMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.gif">, I'm <span style="font-size:35px">Daniel Gidey</span></h1>
 
 <h3 align="center">
-Full-Stack Developer | Mobile & Web Developer | Tech Explorer 
+Software Engineer | Full-Stack Developer | Mobile & Web Developer | Tech Explorer 
 </h3>
 
 ---
