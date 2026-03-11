@@ -116,13 +116,13 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 
 ### 🧠 Currently Learning
 
-- Cloud Security & Kubernetes  
-- Advanced React & Next.js  
-- Backend Optimization with Node.js & MongoDB  
+- Cloud Engineering 
+- Backend with NestJS
+- Python
 
 ---
 
-### 🌍 Let's Connect
+### Contact ME
 
 <p>
   <a href="https://www.linkedin.com/in/daniel-gidey-40497337a" target="_blank">
