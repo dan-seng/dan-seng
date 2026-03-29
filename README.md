@@ -62,7 +62,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="55" src="https://www.svgrepo.com/show/452130/vue.svg" />&nbsp;
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" />&nbsp;
 </p>
 
 #### **Databases & Cloud**
