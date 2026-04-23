@@ -114,11 +114,16 @@ Personal developer portfolio
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dan-seng&theme=radical&no-frame=true&margin-w=15" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dan-seng&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
+---
+
+### We're Making History
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dan-seng&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 ### 🧠 Currently Learning
