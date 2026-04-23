@@ -79,21 +79,27 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 
 ---
 
-### 📌 Projects
 
-- 🔗 **[Movie Explore](https://github.com/dan-seng/Movie_Explore)** — Explore movies with a smooth UI  
-- 🔗 **[E-Shemeta](https://github.com/dan-seng/fullstack-nextjs-ecommerce-app)** — Full stark E-Commerce website  
-- 🔗 **[Portfolio](https://github.com/dan-seng/Portfolio)** — My personal developer portfolio
-- 🔗 **[See More](https://github.com/dan-seng?tab=repositories)**
--  
+## 📌 Featured Projects
+
+🔹 **[Movie Explore](https://github.com/dan-seng/Movie_Explore)**  
+Smooth UI for discovering movies
+
+🔹 **[E-Shemeta](https://github.com/dan-seng/fullstack-nextjs-ecommerce-app)**  
+Full-stack e-commerce (Next.js + backend)
+
+🔹 **[Portfolio](https://github.com/dan-seng/Portfolio)**  
+Personal developer portfolio
+
+👉 [View All Projects](https://github.com/dan-seng?tab=repositories)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dan-seng&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dan-seng&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dan-seng&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=dan-seng&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
