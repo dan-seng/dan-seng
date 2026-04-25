@@ -76,7 +76,8 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />
+  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" />&nbsp;
+   <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" />
 </p>
 
 ---
@@ -84,14 +85,14 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 
 ## 📌 Featured Projects
 
-🔹 **[Movie Explore](https://github.com/dan-seng/Movie_Explore)**  
+🔹 **[Movie Explore](moviexplore.vercel.app)**  
 Smooth UI for discovering movies
 
-🔹 **[E-Shemeta](https://github.com/dan-seng/fullstack-nextjs-ecommerce-app)**  
+🔹 **[E-Shemeta](eshemeta.vercel.app)**  
 Full-stack e-commerce (Next.js + backend)
 
-🔹 **[Portfolio](https://github.com/dan-seng/Portfolio)**  
-Personal developer portfolio
+🔹 **[MezmurAPp](mezmuer.vercel.app)**  
+Full-stack mezmur lyrics web app
 
 👉 [View All Projects](https://github.com/dan-seng?tab=repositories)
 
