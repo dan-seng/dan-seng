@@ -55,7 +55,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
-  <img height="55" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2389%2FPNG%2F512%2Fexpo_logo_icon_145293.png&id=145293&pack_or_individual=pack" />&nbsp;
+  <img height="55" src="https://images.seeklogo.com/logo-png/45/1/expo-go-app-logo-png_seeklogo-457073.png" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;
