@@ -63,7 +63,7 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />&nbsp;
-  <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="55" src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" />
   <img height="55" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiLNuMfL9bbZ7YK4WC-hsf2z0Vz5-XQ9y08Q&s" />&nbsp;
   
 </p>
