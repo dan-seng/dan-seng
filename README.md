@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size:35px">Hi there <img alt="Coding" width="75" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3AxcnhudDF5OXQ3cTBqOWc5cWZwZDNqOGN1aTMwZHo4MW5zZDdrMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.gif">, I'm <span style="font-size:35px">Daniel Gidey GH</span></h1>
+<h1 align="center" style="font-size:35px">Hi there <img alt="Coding" width="75" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3AxcnhudDF5OXQ3cTBqOWc5cWZwZDNqOGN1aTMwZHo4MW5zZDdrMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.gif">, I'm <span style="font-size:35px">Daniel</span></h1>
 
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Mobile & Web Developer | Tech Explorer 
@@ -6,13 +6,13 @@ Software Engineer | Full-Stack Developer | Mobile & Web Developer | Tech Explore
 
 ---
 
-### 👨‍💻 About The GOAT 
+### 👨‍💻 About The Dan 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm a passionate software developer who enjoys building modern web and mobile experiences with scalable backends. I love exploring new tech, improving performance, and writing clean, maintainable code.
 
 - 🚀 Currently working on **web & mobile development projects**
-- 📚 Learning **Cloud Security, Kubernetes & Advanced Next.js**
+- 📚 Learning **New skills**
 - 🤝 Open to collaborating on **open-source & impactful projects**
 
 
@@ -88,8 +88,8 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 🔹 **[Movie Explore](moviexplore.vercel.app)**  
 Smooth UI for discovering movies
 
-🔹 **[E-Shemeta](eshemeta.vercel.app)**  
-Full-stack e-commerce (Next.js + backend)
+🔹 **[Kuknis](kuknis.vercel.app)**  
+Full-stack AI app (Next.js + MongoDB + GeminiApi)
 
 🔹 **[MezmurAPp](mezmuer.vercel.app)**  
 Full-stack mezmur lyrics web app
