@@ -15,7 +15,6 @@ I'm a passionate software developer who enjoys building modern web and mobile ex
 - 📚 Learning **New skills**
 - 🤝 Open to collaborating on **open-source & impactful projects**
 
-
 📩 **Reach me:**  
 <p>
   <a href="https://www.linkedin.com/in/daniel-gidey-40497337a" target="_blank">
