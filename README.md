@@ -1,4 +1,11 @@
-<h1 align="center" style="font-size:35px">Hi there <img alt="Coding" width="75" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3AxcnhudDF5OXQ3cTBqOWc5cWZwZDNqOGN1aTMwZHo4MW5zZDdrMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Q7LHmoFwVP6Yc1swZs/giphy.gif">, I'm <span style="font-size:35px">Daniel</span></h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282c33,100:c778dd&height=200&section=header&text=Daniel%20Gidey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
+<div align="center">
+<a href="https://git.io/typing-svg" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C778DD&center=true&vCenter=true&width=600&lines=React+%2F+Next.js+%2F+Node.js+%2F+NestJS;Express.js%2F+ReactNative%2F+Postgres%2F+MongoDB;Building+%E2%80%94+a+real+healthcare+referral+system;Building+AI+Powered+Web+Applications;Currently+cooking+new+projects%2C" alt="Typing SVG" />
+</a>
+</div>
+
 
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Mobile & Web Developer | Tech Explorer 
@@ -135,21 +142,20 @@ Full-stack mezmur lyrics web app
 - Python
 
 ---
+<div align="center">
+### 📫 Let's build something
 
-### Contact ME
+<a href="https://www.linkedin.com/in/daniel-gidey-40497337a"><img src="https://img.shields.io/badge/LinkedIn-282c33?style=for-the-badge&logo=linkedin&logoColor=C778DD" /></a>
+<a href="mailto:da16gi@gmail.com"><img src="https://img.shields.io/badge/Email-282c33?style=for-the-badge&logo=gmail&logoColor=C778DD" /></a>
+<a href="https://t.me/living_guy"><img src="https://img.shields.io/badge/Telegram-282c33?style=for-the-badge&logo=telegram&logoColor=C778DD" /></a>
 
-<p>
-  <a href="https://www.linkedin.com/in/daniel-gidey-40497337a" target="_blank">
-    <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:da16gi@gmail.com" target="_blank">
-    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email"/>
-  </a>&nbsp;
- <a href="https://t.me/living_guy" target="_blank">
-    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
-  </a>
-</p>
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=dan-seng&label=Profile+Views&color=c778dd&style=flat-square" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c778dd,100:282c33&height=100&section=footer" width="100%"/>
+
+</div>
 
 ---
 
