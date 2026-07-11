@@ -30,7 +30,7 @@ I'm a software developer who enjoys building modern web and mobile experiences w
   <a href="mailto:da16gi@gmail.com" target="_blank">
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email"/>
   </a>&nbsp;
-  <a href="https://t.me/living_guy" target="_blank">
+  <a href="https://t.me/cod_guy" target="_blank">
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
   </a>
   </a>
@@ -147,7 +147,7 @@ Full-stack mezmur lyrics web app
 
 <a href="https://www.linkedin.com/in/daniel-gidey-40497337a"><img src="https://img.shields.io/badge/LinkedIn-282c33?style=for-the-badge&logo=linkedin&logoColor=C778DD" /></a>
 <a href="mailto:da16gi@gmail.com"><img src="https://img.shields.io/badge/Email-282c33?style=for-the-badge&logo=gmail&logoColor=C778DD" /></a>
-<a href="https://t.me/living_guy"><img src="https://img.shields.io/badge/Telegram-282c33?style=for-the-badge&logo=telegram&logoColor=C778DD" /></a>
+<a href="https://t.me/cod_guy"><img src="https://img.shields.io/badge/Telegram-282c33?style=for-the-badge&logo=telegram&logoColor=C778DD" /></a>
 
 <br/><br/>
 
