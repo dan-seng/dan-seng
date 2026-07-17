@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282c33,100:c778dd&height=200&section=header&text=Daniel%20Gidey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
 <div align="center">
 <a href="https://git.io/typing-svg" >
