@@ -13,6 +13,7 @@ Software Engineer | Full-Stack Developer | Mobile & Web Developer | Tech Explore
 ---
 
 ### 👨‍💻 About Daniel 
+
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm a software developer who enjoys building modern web and mobile experiences with scalable backends. I love exploring new tech, improving performance, and writing clean, maintainable code.
