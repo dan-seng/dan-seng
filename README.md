@@ -5,13 +5,11 @@
 </a> 
 </div>
 
-
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Mobile & Web Developer | Tech Explorer 
 </h3>
 
 ---
-
 ### 👨‍💻 About Daniel 
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
