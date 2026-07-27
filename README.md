@@ -9,7 +9,7 @@
 Software Engineer | Full-Stack Developer | Mobile & Web Developer | Tech Explorer 
 </h3>
 
----
+--- 
 
 ### 👨‍💻 About Daniel 
 
