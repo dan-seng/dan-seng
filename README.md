@@ -1,18 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282c33,100:c778dd&height=200&section=header&text=Daniel%20Gidey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:&height=200&section=header&text=Daniel%20Gidey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
 <div align="center">
 <a href="https://git.io/typing-svg" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C778DD&center=true&vCenter=true&width=600&lines=React+%2F+Next.js+%2F+Node.js+%2F+NestJS;Express.js%2F+ReactNative%2F+Postgres%2F+MongoDB;Building+%E2%80%94+a+real+healthcare+referral+system;Building+AI+Powered+Web+Applications;Currently+cooking+new+projects%2C" alt="Typing SVG" />
-</a> 
+</a>
 </div>
+
 
 <h3 align="center">
 Software Engineer | Full-Stack Developer | Mobile & Web Developer | Tech Explorer 
 </h3>
 
---- 
-  
-### 👨‍💻 About Daniel
+---
 
+### 👨‍💻 About The Dan 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 I'm a software developer who enjoys building modern web and mobile experiences with scalable backends. I love exploring new tech, improving performance, and writing clean, maintainable code.
@@ -20,7 +21,6 @@ I'm a software developer who enjoys building modern web and mobile experiences w
 - 🚀 Currently working on **web & mobile development projects**
 - 📚 Learning **New skills**
 - 🤝 Open to collaborating on **open-source & impactful projects**
-
 
 📩 **Reach me:**  
 <p>
@@ -30,14 +30,13 @@ I'm a software developer who enjoys building modern web and mobile experiences w
   <a href="mailto:da16gi@gmail.com" target="_blank">
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email"/>
   </a>&nbsp;
-  <a href="https://t.me/cod_guy" target="_blank">
+  <a href="https://t.me/living_guy" target="_blank">
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
   </a>
   </a>
 </p>
 
 ---
-
 
 ### 🚀 Tech Stack
 
@@ -46,12 +45,13 @@ I'm a software developer who enjoys building modern web and mobile experiences w
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;
+  <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  
 </p>
-
 
 #### **Frameworks, Libraries & Tools**
 <p>
@@ -59,6 +59,7 @@ I'm a software developer who enjoys building modern web and mobile experiences w
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;
   <img height="55" src="https://img.icons8.com/color/1200/express-js.jpg" />&nbsp;
+  <img height="55" src="https://images.icon-icons.com/2108/PNG/512/flutter_icon_130936.png" />&nbsp;
   <img height="55" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />&nbsp;
   <img height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" />&nbsp;
@@ -93,13 +94,13 @@ I'm a software developer who enjoys building modern web and mobile experiences w
 
 ## 📌 Featured Projects
 
-🔹 **[Movie Explore](moviexplore.vercel.app)**  
-Smooth UI for discovering movies
+🔹 **[DevLaunch](devlaunchh.vercel.app)**  
+AI Powered Repositort Analayzer
 
 🔹 **[Kuknis](kuknis.vercel.app)**  
 Full-stack AI app (Next.js + MongoDB + GeminiApi)
 
-🔹 **[MezmurAPp](mezmuer.vercel.app)**  
+🔹 **[Zmareye](zmareye.vercel.app)**  
 Full-stack mezmur lyrics web app
 
 👉 [View All Projects](https://github.com/dan-seng?tab=repositories)
@@ -149,7 +150,7 @@ Full-stack mezmur lyrics web app
 
 <a href="https://www.linkedin.com/in/daniel-gidey-40497337a"><img src="https://img.shields.io/badge/LinkedIn-282c33?style=for-the-badge&logo=linkedin&logoColor=C778DD" /></a>
 <a href="mailto:da16gi@gmail.com"><img src="https://img.shields.io/badge/Email-282c33?style=for-the-badge&logo=gmail&logoColor=C778DD" /></a>
-<a href="https://t.me/cod_guy"><img src="https://img.shields.io/badge/Telegram-282c33?style=for-the-badge&logo=telegram&logoColor=C778DD" /></a>
+<a href="https://t.me/living_guy"><img src="https://img.shields.io/badge/Telegram-282c33?style=for-the-badge&logo=telegram&logoColor=C778DD" /></a>
 
 <br/><br/>
 
