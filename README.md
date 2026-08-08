@@ -21,6 +21,8 @@ I'm a software developer who enjoys building modern web and mobile experiences w
 - 🤝 Open to collaborating on **open-source & impactful projects**
 
 📩 **Reach me:**  
+🔹 **[Portfolio](daniel-gidey.vercel.app)**  
+
 <p>
   <a href="https://www.linkedin.com/in/daniel-gidey-40497337a" target="_blank">
     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
