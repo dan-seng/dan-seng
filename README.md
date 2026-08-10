@@ -21,17 +21,20 @@ I'm a software developer who enjoys building modern web and mobile experiences w
 - 🤝 Open to collaborating on **open-source & impactful projects**
 
 📩 **Reach me:**  
-🔹 **[Portfolio](daniel-gidey.vercel.app)**  
+🔹 **[Portfolio]**
+ <a href="https://daniel-gidey.vercel.app" target="_blank">
+    <img height="35" src="https://img.icons8.com/external-flaticons-flat-flat-icons/1200/external-portfolio-web-development-flaticons-flat-flat-icons.jpg" alt="Portfolio"/>
+  </a>&nbsp;
 
 <p>
-  <a href="https://www.linkedin.com/in/daniel-gidey-40497337a" target="_blank">
+  <a href="https://www.linkedin.com/in/danielgidey" target="_blank">
     <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="mailto:da16gi@gmail.com" target="_blank">
     <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email"/>
   </a>&nbsp;
-  <a href="https://t.me/living_guy" target="_blank">
-    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram"/>
+  <a href="https://t.me/cod_guy" target="_blank">
+    <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png" alt="Telegram"/>
   </a>
   </a>
 </p>
@@ -150,7 +153,7 @@ Full-stack mezmur lyrics web app
 
 <a href="https://www.linkedin.com/in/daniel-gidey-40497337a"><img src="https://img.shields.io/badge/LinkedIn-282c33?style=for-the-badge&logo=linkedin&logoColor=C778DD" /></a>
 <a href="mailto:da16gi@gmail.com"><img src="https://img.shields.io/badge/Email-282c33?style=for-the-badge&logo=gmail&logoColor=C778DD" /></a>
-<a href="https://t.me/living_guy"><img src="https://img.shields.io/badge/Telegram-282c33?style=for-the-badge&logo=telegram&logoColor=C778DD" /></a>
+<a href="https://t.me/cod_guy"><img src="https://img.shields.io/badge/Telegram-282c33?style=for-the-badge&logo=telegram&logoColor=C778DD" /></a>
 
 <br/><br/>
 
