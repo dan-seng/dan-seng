@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282c33,100:c778dd&height=200&section=header&text=Daniel%20Gidey&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282c33,100:c778dd&height=200&section=header&text=Daniel%20Gidey&GH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20ship&descAlignY=58&descSize=18" width="100%"/>
 <div align="center">
 <a href="https://git.io/typing-svg" >
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C778DD&center=true&vCenter=true&width=600&lines=React+%2F+Next.js+%2F+Node.js+%2F+NestJS;Express.js%2F+ReactNative%2F+Postgres%2F+MongoDB;Building+%E2%80%94+a+real+healthcare+referral+system;Building+AI+Powered+Web+Applications;Currently+cooking+new+projects%2C" alt="Typing SVG" />
